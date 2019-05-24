@@ -1,5 +1,7 @@
 # Easy Project Management Tool
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/37b3ad71ce4c4189aed68c3391aa668c)](https://app.codacy.com/app/Vignesh-Durairaj/Easy-Project-Management-Tool?utm_source=github.com&utm_medium=referral&utm_content=Vignesh-Durairaj/Easy-Project-Management-Tool&utm_campaign=Badge_Grade_Dashboard)
+
 Easy project management tool is a desktop application made with Java and Javafx which enables you to manage your personal/office projects. You can add serveral projects & project’s tasks with milestone which will help you to complete the project successfully.
 
 You can find how to use the tool [here](https://www.youtube.com/watch?v=W6fC6OQOjd0)
